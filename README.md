@@ -1,5 +1,5 @@
 # Adventure-works
-🚀 Power BI Dashboards: Comprehensive Business Insights 📊
+# 🚀 Power BI Dashboards: Comprehensive Business Insights 📊
 
 I’m thrilled to showcase three distinct Power BI dashboards that I developed during my Power BI course at ITI. 
 Each dashboard serves a unique purpose in delivering actionable insights for businesses.
