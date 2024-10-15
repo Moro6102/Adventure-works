@@ -34,8 +34,8 @@ These dashboards empower businesses to make data-driven decisions by offering in
 
 # Dashboard:
 
-![WhatsApp Image 2024-10-12 at 8 37 43 PM (1)](https://github.com/user-attachments/assets/b25d3381-21ab-456b-b655-142ceccf7259)
-
 ![WhatsApp Image 2024-10-12 at 8 36 38 PM (1)](https://github.com/user-attachments/assets/2b26cb3b-1601-4f90-af31-55b8727eab04)
 
 ![WhatsApp Image 2024-10-12 at 8 37 07 PM (1)](https://github.com/user-attachments/assets/c62d7901-bf5a-46ea-aa5e-bffdd1e5b8a4)
+
+![WhatsApp Image 2024-10-12 at 8 37 43 PM (1)](https://github.com/user-attachments/assets/b25d3381-21ab-456b-b655-142ceccf7259)
