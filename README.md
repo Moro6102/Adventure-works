@@ -32,7 +32,7 @@ Geographical distribution of product demand and sales trends.
 Interactive visualizations to drill down into region-specific data.
 These dashboards empower businesses to make data-driven decisions by offering insights across sales, product performance, and geographical metrics.
 
-# Dashboard:
+# Dashboards:
 
 ![WhatsApp Image 2024-10-12 at 8 36 38 PM (1)](https://github.com/user-attachments/assets/2b26cb3b-1601-4f90-af31-55b8727eab04)
 
