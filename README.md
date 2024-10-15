@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-12 at 8 37 43 PM (1)](https://github.com/user-attachments/assets/34486b16-8ad0-4403-a3db-1e571816d9c5)# Adventure-works
+
 # 🚀 Power BI Dashboards: Comprehensive Business Insights 📊
 
 I’m thrilled to showcase three distinct Power BI dashboards that I developed during my Power BI course at ITI. 
